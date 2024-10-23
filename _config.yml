@@ -1,2 +1,127 @@
-title: Christos Magganas - Resume
-theme: jekyll-theme-minimal
+# Site
+repository: cmagganas/resume
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Christos Magganas
+title: AI Engineer @ AI Makerspace | Founding Engineer @ Toro
+email: christos.magganas@gmail.com
+website: www.github.com/cmagganas
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: christosmagg
+github_username:  cmagganas
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: christos_magganas
+linkedin_username: christos-magganas
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: cmagganas
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: christos.app
+  icon: fas fa-globe
+  url: https://www.christos.app/
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Christos and I'm an AI Engineer at AI Makerspace and a Founding Engineer at Toro. I have extensive experience in AI and ML, and I am passionate about leveraging these technologies to address societal challenges.
+
+  I am most skilled in: <mark>Python</mark>, <mark>AI/ML Ops</mark>, and <mark>Dancing</mark>.
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Real-time Multilingual Custom Keyword Spotting
+        link: github.com/cmagganas
+        # link_text: Project Website
+        additional_links:
+          - title:  cmagganas/real-time-multilingual-custom-keyword-spotting
+            icon: fab fa-github
+            url: github.com/cmagganas/real-time-multilingual-custom-keyword-spotting
+          # - title:  Github page for project (eg. cmagganas/real-time-multilingual-custom-keyword-spotting)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. cmagganas.github.io/real-time-multilingual-custom-keyword-spotting)
+        quote: >
+          Developed a lightweight few-shot learning model for personalization of keyword spotting or wake-word detection.
+        description: | # this will include new lines to allow paragraphs
+          This project was a significant milestone in my career, allowing me to apply my skills in <mark>AI</mark> and <mark>ML</mark> to create a practical solution for real-world applications.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Toro
+        link: https://www.mytoro.ai/
+        # link_text: toro.com
+        sub_title: Founding Engineer - Lead AI Engineer
+        caption: August 2024 - Present
+        quote: >
+          Leading the AI engineering team to develop innovative solutions and drive the company's AI strategy.
+        description: | # this will include new lines to allow paragraphs
+            As a Founding Engineer at Toro, I lead a team of AI engineers to develop cutting-edge AI solutions. My role involves strategic planning, project management, and hands-on development.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of California, Santa Barbara
+        caption: 2017
+        sub_title: B.S. Actuarial Science
+        quote: >
+          The University of California, Santa Barbara is a leading research institution that provides a comprehensive education in various fields.
+        description: | # this will include new lines to allow paragraphs
+          During my time at UCSB, I developed a strong foundation in actuarial science and honed my analytical and problem-solving skills. My education at UCSB has been instrumental in shaping my career in AI and ML.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in AI/ML, software engineering and community building, some of my other interests and hobbies are:
+      - Rock climbing
+      - Yoga
+      - Dancing
+      - Stoicism
+      - Entrepreneurship
+      - Techno-Philanthropy
+
+      Look at this cool image  
+      ![Castle in the Sky](/resume/images/castle-in-the-sky.jpeg "Castle in the Sky")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
