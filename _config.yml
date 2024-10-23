@@ -25,7 +25,7 @@ instagram_username: christos_magganas
 linkedin_username: christos-magganas
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: cmagganas
+youtube_username: \@cmagganas
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/greeksgiving2023.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Christos and I'm an AI Engineer at AI Makerspace and a Founding Engineer at Toro. I have extensive experience in AI and ML, and I am passionate about leveraging these technologies to address societal challenges.
 
@@ -109,7 +109,7 @@ content:
       - Entrepreneurship
       - Techno-Philanthropy
 
-      Look at this cool image  
+      This is an image from one of my favorite movies, *Castle in the Sky*. It inspires me to always follow my heart, be courageous, and never give up on my dreams.
       ![Castle in the Sky](/resume/images/castle-in-the-sky.jpeg "Castle in the Sky")
 
 # Footer
