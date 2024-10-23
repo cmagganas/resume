@@ -1,0 +1,245 @@
+Name: Christos Magganas
+Website: www.christos.app
+LinkedIn: linkedin.com/in/christos-magganas/
+GitHub: cmagganas/
+
+
+SUMMARY
+
+Machine Learning Engineer with experience in developing ML models to solve real-world problems. Proven ability to lead cross-functional teams and manage ML projects from ideation to deployment. Strong intangibles including empathy, humility, integrity, positivity and curiosity, making me an excellent collaborator and communicator. Seeking to leverage my abilities to make a positive impact in an AI organization.
+
+
+EDUCATION
+
+School: AI Makerspace
+Degree:  LLM Eng + Ops
+Date: 8/2023 - 11/2023
+Notes: 
+- Proficient in leveraging LLMs for product development, creating intricate apps using LangChain and LlamaIndex frameworks, contributing to open-source LLM projects, and collaborating on end-to-end Generative AI applications.
+
+School: FourthBrain
+Degree:  Machine Learning Engineer
+Date: 12/2022 - 5/2023
+Notes: 
+- MLE: Data-centric AI, ML Modeling, AI Applications, and MLOps
+- Building Gen AI: Build, deploy, and share an application using an LLM (HuggingFace Spaces) leveraging model fine-tuning and prompt engineering to optimize output.
+- Building with LLMs: Build and deploy LLM apps using open-source tools and frameworks. Fine-Tune LLMs, teach LLMs new structure, and build Q&A tools for your docs.
+
+School: University of Colorado, Boulder
+Degree: M.S. Data Science 2024
+Date: 1/2022 - Current
+Notes: 
+- DS is a multidisciplinary field that focuses on extracting knowledge and insights from datasets using a range of skills in applied mathematics, statistics and computer science.
+
+School: Springboard Data Science Bootcamp
+
+School: University of California, Santa Barbara
+Degree: B.S. Actuarial Science 2017
+Notes: 
+- AS is a discipline that assesses financial risks, using mathematical and statistical methods to define, analyze, and solve the financial implications of uncertain future events
+
+
+
+EMPLOYMENT
+
+Company: Toro
+Title: Founding Engineer - Lead AI Engineer
+Date: 8/2024 - Current
+Description: 
+AI Research & Development - Text Based Food Ordering
+
+Company: AI Makerspace
+Title: Community Builder
+Date: 10/2023 - Current
+Location: San Francisco Bay Area
+Description: 
+- Facilitating "Christos' Community Creations" bi-weekly; fostering a dynamic AI and ML community on our Discord server.
+- Utilizing expertise in ML, LLMs, and AI to enrich community discussions and learning (e.g. Peer Supporter for the AI Engineering cohort)
+
+Company: AI Makerspace
+Title: Peer Supporter - AI Engineering Bootcamp
+Date: 1/2024 - 8/2024
+Location: San Francisco Bay Area
+Description: 
+- Responsibilities: Facilitate breakout sessions, assist learners online, hold office hours, provide advice and guidance for final projects.
+- Skills & Benefits: Leadership, technical proficiency, communication, problem-solving;collaborate with AIM staff; engage with AI community; gain teaching and AI engineering experience; network with industry experts.
+
+Company: Learvo
+Title: AI Engineer
+Date: 9/2023 - 11/2023
+Location: San Francisco Bay Area
+Description: 
+- Led the design of Learvo's mnemonic solutions using LangChain and LlamaIndex as an LLM application architect.
+- Advanced Generative AI at Learvo, built a PoC for mnemonic learning tools, and collaborated with team on LLM projects as an AI Engineer.
+
+Company: Kaleidoscope Data
+Title: AI/ML Engineer
+Date: 4/2023 - 8/2023
+Location: San Francisco Bay Area
+Description: 
+- Operationalized a Reddit Bot utilizing Retrieval-Augmented Generation via LangChain to create effective summaries of subreddit content, in collaboration with the moderator team of an interested subreddit.
+- Annotated a document database using OpenAI, and conducted statistical analysis to understand relationships between documents over time.
+- Assisted with executing research and writing a research paper utilizing several LLM and embedding-based approaches for a classification task.
+- Wrote Python and SQL code to manipulate and process data, utilized OpenAI API for data processing, and conducted statistical and visual analysis of datasets using Data Science packages, Excel, etc.
+
+Company: Cisco
+Title: Data Scientist (Intern)
+Date: 5/2022 - 9/2022
+Location: San Jose, CA
+Description: Implemented ML Ops industry best-practices to identify issues and streamline ML workflow, leading to end-to-end observability.
+- Collaborated across teams (Data Engineering/Science/Ops) to design and implement a metric framework to streamline workflow.
+- Led the integration of MLOps Continuous Monitoring on CX BCS team using Google Cloud, providing issue detection, insight and resolution.MLOps is a core function of ML engineering, focused on taking ML models to production, maintaining and monitoring them.
+- Created dashboards using Data Studio to gain observability over ML lifecycle by visualizing stability, performance and operational metrics.
+- Highlighted current infrastructure gaps that needed to be bridged and laid out an industry best practice roadmap for our use-case specific needs.
+
+Company: HCL Technologies
+Title: Data Analyst (Google Cloud Platform)
+Date: 3/2021 - 9/2021
+Location: Remote
+Description: Built Dashboards and performed ETL tasks on dispersed data sources, allowing management to track progress and gain visibility.
+- Created dashboards using Data Studio to improve our engineer's time use efficiency. Our insights improved productivity by ~10%.
+- Established and upheld the analytical and reporting set for our team, utilized data to find improvement opportunities and make proposals to managers and stake-holders.
+- Took ownership of pipelines and analytical tools, keeping well documented instructions for processes while presenting results to non-technical folks.
+- Provided ongoing and ad-hoc analysis on existing reports, writing two or three SQL scripts from scratch for ETL on a daily basis.
+
+Company: Commercial Energy of California
+Title: Data Analyst
+Date: 9/2019 - 11/2020
+Location: Oakland, CA
+Description: Led initiative to automate all of our time-intensive manual analyses and reports, improving efficiency and increasing revenue.
+- Responsible for analyzing customer usage data to make recommendations to our customers, often cutting their bill by 25% .
+- Reported natural gas price volatility for market changes versus historical data with visualizations for purchasing decisions daily.
+- Built models to automate savings analyses through self-initiative, rigorous cooperative efforts and research, reducing ~10 hours of work weekly for each individual involved.
+- Led the onboarding and instruction of a strategic savings plan generating thousands of dollars, which I also presented to C-level executives.
+
+Company: Property Management & Development
+Title: Manager
+Date: 9/2013 - 9/2019
+Location: Pinole, CA
+Description: 
+Establish rental rates, Organize business expenses for 10+ residential/commercial properties, Supervising construction site overseeing ~10+ workers
+
+
+PROJECTS
+
+Name: Real-time Multilingual Custom Keyword Spotting
+Description: 
+- Developed a lightweight few-shot learning model for personalization of keyword spotting or wake-word detection
+- Tools used include AWS EC2, Hugging Face, GitHub, FastAPI, TensorFlow, Streamlit, Python
+- Achieved low False Rejection Rate (FRR) of 3.94% and False Acceptance Rate (FAR) of 5.78%
+- End-to-end run-time (Keyword selection, recording, fine-tune training and inference prediction) about 2-3 minutes
+
+Name: Spotify Playlist Recommender using user taste via API
+Description: 
+Spotify App that takes user's music taste to recommend songs and create a playlist for them using Spotify's Web API in under one minute.
+
+
+
+SKILLS
+
+Category: Professionalism
+Project Management
+Collaboration
+Communication
+Leadership
+End-to-End Development
+Story Telling
+Resource Management
+Critical Thinking
+Conflict Resolution
+Creativity
+
+Category: Programming
+HTML
+Excel
+Visual Basic
+Scikit-learn
+MLLib
+Python
+SQL
+R
+PySpark (Koalas)
+Pandas
+NumPy
+Jupyter
+Altair
+Matplotlib
+Git
+Bash
+Unix
+Django
+Streamlit
+FastAPI
+Flask
+Scipy
+Seaborn
+
+Category: Machine Learning
+ML Ops
+ML Engineering
+Data Engineering
+Data Wrangling/Scraping
+Data Analysis
+Statistical Inference
+Data Visualization
+Continuous Monitoring
+EDA
+CI/CD
+
+Category: Platforms
+Tableau
+AWS (S3, EC2, EMR, Elastic Beanstalk, SageMaker)
+Databricks
+Airflow
+Docker
+Bootstrap
+GCP (BigQuery, Data Studio, Dataflow, AutoML, VertexAI, Datalab, Dataprep)
+Kubernetes
+
+Category: Artificial Intelligence
+NLP (LDA, BoW, TF-IDF, word2vec, seq2seq)
+Computer Vision (Classification, Object Detection, Semantic Segmentation)
+Audio Signal Processing (librosa, torchaudio, wav2vec)
+
+Category: Deep Learning
+TensorFlow (Lite, Keras)
+PyTorch (fast.ai, Lightning)
+MLPs
+CNNs
+RNNs (GRU/LSTM)
+GANs (cGAN/WGAN/CycleGAN)
+Transformers (BERT, DistilBERT)
+
+Category: Algorithms
+Linear Regression
+Logistic Regression
+SVMs
+Random Forests
+XGBoost
+K-means
+DBSCAN
+PCA
+
+
+AWARDS
+
+Name: Professional Machine Learning Engineer
+Awarder: Google Cloud
+Date: 2021
+Description: • Frame ML problems • Develop ML models • Automate & orchestrate ML pipelines • Monitor, optimize, and maintain ML solutions
+
+
+ACTIVITIES
+
+
+VOLUNTEERING
+
+Name: Ascension Summer Camp
+Title: Leader/Counselor
+Location: Redway, CA
+Description: 
+Camp Counselor is responsible for youth development, safety, youth development, monitoring behavior, aiding campers struggling with separation anxiety and promoting the core values of the Ascension Greek Orthodox Church. Safety is the primary function of the position.
+
+
+CUSTOM SECTION
+
