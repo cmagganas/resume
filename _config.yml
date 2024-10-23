@@ -24,7 +24,7 @@ instagram_username: christos_magganas
 linkedin_username: christos-magganas
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: \@cmagganas
+youtube_username: "@cmagganas"
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -51,6 +51,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Python</mark>, <mark>AI/ML Ops</mark>, and <mark>Dancing</mark>.
 
+  I am passionate about leveraging AI and ML to address societal challenges, aiming to join a mission-driven team that encourages learning, growth, and innovation. I focus on community building and knowledge sharing, contributing as a volunteer and consultant to foster growth and collaborative problem-solving. I aspire to use my expertise for techno-philanthropic ventures, driving advancements that benefit humanity.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -71,6 +73,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           This project was a significant milestone in my career, allowing me to apply my skills in <mark>AI</mark> and <mark>ML</mark> to create a practical solution for real-world applications.
 
+      - layout: top-middle
+        title: Spotify Playlist Recommender
+        link: github.com/cmagganas
+        # link_text: Project Website
+        additional_links:
+          - title:  cmagganas/spotify-playlist-recommender
+            icon: fab fa-github
+            url: github.com/cmagganas/spotify-playlist-recommender
+        quote: >
+          Developed a Spotify App that takes user's music taste to recommend songs and create a playlist for them using Spotify's Web API.
+        description: | # this will include new lines to allow paragraphs
+          This project allowed me to explore the integration of AI with music, creating a personalized experience for users by leveraging Spotify's Web API.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -84,6 +99,17 @@ content:
           Leading the AI engineering team to develop innovative solutions and drive the company's AI strategy.
         description: | # this will include new lines to allow paragraphs
             As a Founding Engineer at Toro, I lead a team of AI engineers to develop cutting-edge AI solutions. My role involves strategic planning, project management, and hands-on development.
+
+      - layout: left
+        title: AI Makerspace
+        link: https://www.aimakerspace.com/
+        # link_text: aimakerspace.com
+        sub_title: Community Builder
+        caption: October 2023 - Present
+        quote: >
+          Building a community of AI enthusiasts and professionals to foster learning and collaboration.
+        description: | # this will include new lines to allow paragraphs
+            At AI Makerspace, I focus on community building and knowledge sharing, contributing as a volunteer and consultant to foster growth and collaborative problem-solving.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
