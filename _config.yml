@@ -87,6 +87,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: LLM Observability with Arize Phoenix and LlamaIndex
+        link: github.com/cmagganas
+        additional_links:
+          - title: LLM Observability with Arize Phoenix and LlamaIndex
+            icon: fab fa-youtube
+            url: LLM Observability with Arize Phoenix and LlamaIndex
+        quote: >
+          Built a framework for bringing transparency and control to LLM observability using Arize Phoenix and LlamaIndex.
+        description: | # this will include new lines to allow paragraphs
+          Led an AI Makerspace Community Build Session focused on evaluating AI model performance, leveraging retrieval-augmented generation, and interpreting metrics for model improvement. The project emphasized data evaluation, Chain of Thought analysis, and best practices for debugging LLM applications.
+
+      - layout: top-middle
+        title: Best Practices for Coding with LLMs
+        link: github.com/cmagganas/cursor-best-practices-demo
+        additional_links:
+          - title: Best Practices for Coding with LLMs
+            icon: fab fa-youtube
+            url: https://youtu.be/eL1Bt1dgDkc
+          - title: GitHub Presentation
+            icon: fab fa-globe
+            url: https://voxel51.com/computer-vision-events/nov-20-san-francisco-ai-ml-amp-computer-vision-meetup/
+        quote: >
+          Developed and presented comprehensive guidelines for effectively utilizing LLMs in software development workflows.
+        description: | # this will include new lines to allow paragraphs
+          Led an AI Makerspace Community Session on best practices for coding with LLMs, with a focus on practical implementation using Cursor. Presented findings at GitHub's San Francisco AI/ML & Computer Vision Meetup, demonstrating effective techniques for leveraging AI assistance in software development while maintaining code quality.
+
+      - layout: top-middle
         title: Real-time Multilingual Custom Keyword Spotting
         link: github.com/cmagganas
         additional_links:
