@@ -8,40 +8,22 @@ version: 2
 # Personal info
 name: Christos Magganas
 title: AI Engineer @ AI Makerspace | Founding Engineer @ Toro
-website: www.github.com/cmagganas
+# website: www.github.com/cmagganas
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: christosmagg
 github_username:  cmagganas
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: christos_magganas
 linkedin_username: christos-magganas
-# xing_username: jekyll
-# pinterest_username: jekyll
 youtube_username: "@cmagganas"
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
 # Additional icon links
 additional_links:
 - title: christos.app
   icon: fas fa-globe
   url: https://www.christos.app/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -77,34 +59,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Facilitating "Christos' Community Creations" bi-weekly and fostering a dynamic AI/ML community. As Peer Supporter for the AI Engineering cohort, I facilitate breakout sessions, assist learners, hold office hours, and provide guidance for final projects.
 
-  - title: Past Experience
-    layout: list
-    content:
-      - layout: left
-        title: Learvo
-        sub_title: AI Engineer
-        caption: September 2023 - November 2023
-        description: Led design of mnemonic solutions using LangChain and LlamaIndex as LLM application architect.
-
-      - layout: left
-        title: Kaleidoscope Data
-        sub_title: AI/ML Engineer
-        caption: April 2023 - August 2023
-        description: Developed RAG-based Reddit Bot and conducted LLM research projects.
-
-      - layout: left
-        title: Cisco
-        sub_title: Data Scientist (Intern)
-        caption: May 2022 - September 2022
-        description: Implemented MLOps best practices and end-to-end observability solutions.
-
-      - layout: left
-        title: HCL Technologies
-        sub_title: Data Analyst (Google Cloud Platform)
-        caption: March 2021 - September 2021
-        description: Built dashboards and performed ETL tasks improving team efficiency by ~10%.
-
-  - title: Recent Education
+  - title: Education
     layout: list
     content:
       - layout: left
@@ -121,9 +76,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Specialized in Data-centric AI, ML Modeling, AI Applications, and MLOps. Built and deployed LLM applications using various frameworks and fine-tuning techniques.
 
-  - title: Additional Education
-    layout: list
-    content:
       - layout: left
         title: University of California, Santa Barbara
         caption: 2017
@@ -157,6 +109,45 @@ content:
           Developed a Spotify App that takes user's music taste to recommend songs and create a playlist for them using Spotify's Web API.
         description: | # this will include new lines to allow paragraphs
           This project allowed me to explore the integration of AI with music, creating a personalized experience for users by leveraging Spotify's Web API.
+
+  - title: Past Experience
+    layout: list
+    content:
+      - layout: left
+        title: Learvo
+        sub_title: AI Engineer
+        caption: September 2023 - November 2023
+        description: Led design of mnemonic solutions using LangChain and LlamaIndex as LLM application architect.
+
+      - layout: left
+        title: Kaleidoscope Data
+        sub_title: AI/ML Engineer
+        caption: April 2023 - August 2023
+        description: Developed RAG-based Reddit Bot and conducted LLM research projects.
+
+      - layout: left
+        title: Cisco
+        sub_title: Data Scientist (Intern)
+        caption: May 2022 - September 2022
+        description: Implemented MLOps best practices and end-to-end observability solutions.
+
+      - layout: left
+        title: HCL Technologies
+        sub_title: Data Analyst (Google Cloud Platform)
+        caption: March 2021 - September 2021
+        description: Built dashboards and performed ETL tasks improving team efficiency by ~10%.
+
+      - layout: left
+        title: Commercial Energy of California
+        sub_title: Data Analyst
+        caption: September 2019 - November 2020
+        description: Led initiative to automate manual analyses and reports, improving efficiency and increasing revenue.
+
+      - layout: left
+        title: Property Management & Development
+        sub_title: Manager
+        caption: September 2013 - Current
+        description: Managed 10+ residential/commercial properties and supervised construction projects with 10+ workers.
 
   - title: A Little More About Me
     layout: text
