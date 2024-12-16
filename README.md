@@ -23,7 +23,7 @@ AI Engineer @ AI Makerspace | 🏗️ Build | 🚢 Ship | 📢 Share | 🚀 Tran
 
 - **Toro**: Founding Engineer - Lead AI Engineer (8/2024 - Current)
 - **AI Makerspace**: Community Builder (10/2023 - Current)
-- **AI Makerspace**: Peer Supporter - AI Engineering Bootcamp (1/2024 - 8/2024)
+- **AI Makerspace**: Peer Supporter - AI Engineering Bootcamp (1/2024 - Current)
 - **Learvo**: AI Engineer (9/2023 - 11/2023)
 - **Kaleidoscope Data**: AI/ML Engineer (4/2023 - 8/2023)
 - **Cisco**: Data Scientist (Intern) (5/2022 - 9/2022)

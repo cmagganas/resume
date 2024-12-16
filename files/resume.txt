@@ -26,8 +26,8 @@ Notes:
 - Building with LLMs: Build and deploy LLM apps using open-source tools and frameworks. Fine-Tune LLMs, teach LLMs new structure, and build Q&A tools for your docs.
 
 School: University of Colorado, Boulder
-Degree: M.S. Data Science 2024
-Date: 1/2022 - Current
+Degree: M.S. Data Science (Aborted)
+Date: 1/2022 - 6/2022
 Notes: 
 - DS is a multidisciplinary field that focuses on extracting knowledge and insights from datasets using a range of skills in applied mathematics, statistics and computer science.
 
@@ -58,7 +58,7 @@ Description:
 
 Company: AI Makerspace
 Title: Peer Supporter - AI Engineering Bootcamp
-Date: 1/2024 - 8/2024
+Date: 1/2024 - Current
 Location: San Francisco Bay Area
 Description: 
 - Responsibilities: Facilitate breakout sessions, assist learners online, hold office hours, provide advice and guidance for final projects.

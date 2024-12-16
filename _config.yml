@@ -54,20 +54,93 @@ about_content: | # this will include new lines to allow paragraphs
   I am passionate about leveraging AI and ML to address societal challenges, aiming to join a mission-driven team that encourages learning, growth, and innovation. I focus on community building and knowledge sharing, contributing as a volunteer and consultant to foster growth and collaborative problem-solving. I aspire to use my expertise for techno-philanthropic ventures, driving advancements that benefit humanity.
 
 content:
+  - title: Current Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Toro
+        link: https://www.mytoro.ai/
+        sub_title: Founding Engineer - Lead AI Engineer
+        caption: August 2024 - Present
+        quote: >
+          Leading AI Research & Development for Text-Based Food Ordering
+        description: | # this will include new lines to allow paragraphs
+            As a Founding Engineer at Toro, I lead a team of AI engineers to develop cutting-edge AI solutions. My role involves strategic planning, project management, and hands-on development of innovative text-based food ordering systems.
+
+      - layout: left
+        title: AI Makerspace
+        link: https://aimakerspace.io/
+        sub_title: Community Builder & Peer Supporter
+        caption: October 2023 - Present
+        quote: >
+          Building a community of AI enthusiasts and professionals to foster learning and collaboration.
+        description: | # this will include new lines to allow paragraphs
+            Facilitating "Christos' Community Creations" bi-weekly and fostering a dynamic AI/ML community. As Peer Supporter for the AI Engineering cohort, I facilitate breakout sessions, assist learners, hold office hours, and provide guidance for final projects.
+
+  - title: Past Experience
+    layout: list
+    content:
+      - layout: left
+        title: Learvo
+        sub_title: AI Engineer
+        caption: September 2023 - November 2023
+        description: Led design of mnemonic solutions using LangChain and LlamaIndex as LLM application architect.
+
+      - layout: left
+        title: Kaleidoscope Data
+        sub_title: AI/ML Engineer
+        caption: April 2023 - August 2023
+        description: Developed RAG-based Reddit Bot and conducted LLM research projects.
+
+      - layout: left
+        title: Cisco
+        sub_title: Data Scientist (Intern)
+        caption: May 2022 - September 2022
+        description: Implemented MLOps best practices and end-to-end observability solutions.
+
+      - layout: left
+        title: HCL Technologies
+        sub_title: Data Analyst (Google Cloud Platform)
+        caption: March 2021 - September 2021
+        description: Built dashboards and performed ETL tasks improving team efficiency by ~10%.
+
+  - title: Recent Education
+    layout: list
+    content:
+      - layout: left
+        title: AI Makerspace
+        caption: August 2023 - November 2023
+        sub_title: LLM Engineering & Operations
+        description: | # this will include new lines to allow paragraphs
+            Mastered LLM product development using LangChain and LlamaIndex frameworks, contributing to open-source projects and building end-to-end Generative AI applications.
+
+      - layout: left
+        title: FourthBrain
+        caption: December 2022 - May 2023
+        sub_title: Machine Learning Engineer
+        description: | # this will include new lines to allow paragraphs
+            Specialized in Data-centric AI, ML Modeling, AI Applications, and MLOps. Built and deployed LLM applications using various frameworks and fine-tuning techniques.
+
+  - title: Additional Education
+    layout: list
+    content:
+      - layout: left
+        title: University of California, Santa Barbara
+        caption: 2017
+        sub_title: B.S. Actuarial Science
+        description: | # this will include new lines to allow paragraphs
+          Developed strong foundation in mathematical and statistical methods for analyzing financial risks.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Real-time Multilingual Custom Keyword Spotting
         link: github.com/cmagganas
-        # link_text: Project Website
         additional_links:
           - title:  cmagganas/real-time-multilingual-custom-keyword-spotting
             icon: fab fa-github
             url: github.com/cmagganas/real-time-multilingual-custom-keyword-spotting
-          # - title:  Github page for project (eg. cmagganas/real-time-multilingual-custom-keyword-spotting)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. cmagganas.github.io/real-time-multilingual-custom-keyword-spotting)
         quote: >
           Developed a lightweight few-shot learning model for personalization of keyword spotting or wake-word detection.
         description: | # this will include new lines to allow paragraphs
@@ -76,7 +149,6 @@ content:
       - layout: top-middle
         title: Spotify Playlist Recommender
         link: github.com/cmagganas
-        # link_text: Project Website
         additional_links:
           - title:  cmagganas/spotify-playlist-recommender
             icon: fab fa-github
@@ -85,43 +157,6 @@ content:
           Developed a Spotify App that takes user's music taste to recommend songs and create a playlist for them using Spotify's Web API.
         description: | # this will include new lines to allow paragraphs
           This project allowed me to explore the integration of AI with music, creating a personalized experience for users by leveraging Spotify's Web API.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Toro
-        link: https://www.mytoro.ai/
-        # link_text: toro.com
-        sub_title: Founding Engineer - Lead AI Engineer
-        caption: August 2024 - Present
-        quote: >
-          Leading the AI engineering team to develop innovative solutions and drive the company's AI strategy.
-        description: | # this will include new lines to allow paragraphs
-            As a Founding Engineer at Toro, I lead a team of AI engineers to develop cutting-edge AI solutions. My role involves strategic planning, project management, and hands-on development.
-
-      - layout: left
-        title: AI Makerspace
-        link: https://www.aimakerspace.com/
-        # link_text: aimakerspace.com
-        sub_title: Community Builder
-        caption: October 2023 - Present
-        quote: >
-          Building a community of AI enthusiasts and professionals to foster learning and collaboration.
-        description: | # this will include new lines to allow paragraphs
-            At AI Makerspace, I focus on community building and knowledge sharing, contributing as a volunteer and consultant to foster growth and collaborative problem-solving.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of California, Santa Barbara
-        caption: 2017
-        sub_title: B.S. Actuarial Science
-        quote: >
-          The University of California, Santa Barbara is a leading research institution that provides a comprehensive education in various fields.
-        description: | # this will include new lines to allow paragraphs
-          During my time at UCSB, I developed a strong foundation in actuarial science and honed my analytical and problem-solving skills. My education at UCSB has been instrumental in shaping my career in AI and ML.
 
   - title: A Little More About Me
     layout: text
