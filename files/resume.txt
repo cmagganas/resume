@@ -6,7 +6,7 @@ GitHub: cmagganas/
 
 SUMMARY
 
-Machine Learning Engineer with experience in developing ML models to solve real-world problems. Proven ability to lead cross-functional teams and manage ML projects from ideation to deployment. Strong intangibles including empathy, humility, integrity, positivity and curiosity, making me an excellent collaborator and communicator. Seeking to leverage my abilities to make a positive impact in an AI organization.
+AI Engineer with experience in developing ML models to solve real-world problems. Proven ability to lead cross-functional teams and manage ML projects from ideation to deployment. Strong intangibles including empathy, humility, integrity, positivity and curiosity, making me an excellent collaborator and communicator. Seeking to leverage my abilities to make a positive impact in an AI organization.
 
 
 EDUCATION
@@ -42,12 +42,6 @@ Notes:
 
 EMPLOYMENT
 
-Company: Toro
-Title: Founding Engineer - Lead AI Engineer
-Date: 8/2024 - Current
-Description: 
-AI Research & Development - Text Based Food Ordering
-
 Company: AI Makerspace
 Title: Community Builder
 Date: 10/2023 - Current
@@ -58,11 +52,18 @@ Description:
 
 Company: AI Makerspace
 Title: Peer Supporter - AI Engineering Bootcamp
-Date: 1/2024 - Current
+Date: 1/2024 - 12/2024
 Location: San Francisco Bay Area
 Description: 
 - Responsibilities: Facilitate breakout sessions, assist learners online, hold office hours, provide advice and guidance for final projects.
 - Skills & Benefits: Leadership, technical proficiency, communication, problem-solving;collaborate with AIM staff; engage with AI community; gain teaching and AI engineering experience; network with industry experts.
+
+Company: Toro
+Title: Founding Engineer - Lead AI Engineer
+Date: 8/2024 - 1/2024
+Description: 
+AI Research & Development - Text Based Food Ordering
+- Built MVP (frontend, designed conversational flow, microservice apis, semantic router, order updater).
 
 Company: Learvo
 Title: AI Engineer
