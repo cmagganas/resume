@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Christos Magganas
-title: AI Engineer @ AI Makerspace | Founding Engineer @ Toro
+title: AI Engineer @ AI Makerspace | Applied AI Advisor @ Techgnosis
 # website: www.github.com/cmagganas
 
 # Dark Mode (true/false/never)
@@ -23,7 +23,7 @@ youtube_username: "@cmagganas"
 additional_links:
 - title: christos.app
   icon: fas fa-globe
-  url: https://www.christos.app/
+  url: https://cmagganas.github.io/resume/
 
 # About Section
 # about_title: About Me
@@ -40,14 +40,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Toro
-        link: https://www.mytoro.ai/
-        sub_title: Founding Engineer - Lead AI Engineer
-        caption: August 2024 - Present
+        title: Techgnosis
+        link: https://aimakerspace.io/ai-consulting/
+        sub_title: Applied AI Advisor
+        caption: January 2025 - Present
         quote: >
-          Leading AI Research & Development for Text-Based Food Ordering
+          Providing expert guidance on AI/ML projects to drive success.
         description: | # this will include new lines to allow paragraphs
-            As a Founding Engineer at Toro, I lead a team of AI engineers to develop cutting-edge AI solutions. My role involves strategic planning, project management, and hands-on development of innovative text-based food ordering systems.
+            An AI engineering team led by Christos Magganas, specializing in delivering AI solutions with a proven track record of success from his time with the AI Makespace community.
 
       - layout: left
         title: AI Makerspace
@@ -58,6 +58,16 @@ content:
           Building a community of AI enthusiasts and professionals to foster learning and collaboration.
         description: | # this will include new lines to allow paragraphs
             Facilitating "Christos' Community Creations" bi-weekly and fostering a dynamic AI/ML community. As Peer Supporter for the AI Engineering cohort, I facilitate breakout sessions, assist learners, hold office hours, and provide guidance for final projects.
+
+      - layout: left
+        title: Toro
+        link: https://www.mytoro.ai/
+        sub_title: Founding Engineer - Lead AI Engineer
+        caption: August 2024 - January 2025
+        quote: >
+          Leading AI Research & Development for Text-Based Food Ordering
+        description: | # this will include new lines to allow paragraphs
+            As a Founding Engineer at Toro, I lead a team of AI engineers to develop cutting-edge AI solutions. My role involves strategic planning, project management, and hands-on development of innovative text-based food ordering systems.
 
   - title: Education
     layout: list
